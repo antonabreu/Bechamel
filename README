@@ -1,0 +1,23 @@
+====
+BECHAMEL is a full stack application allowing you to create an UML activity diagram where you can add either existing components from the library or your own programmed components.
+
+====
+Project launched by Laurent Henocque, Gaetan Janssens(@Petit_Nuage) and Alban Diguer(@albandiguer) in 2009.
+
+====
+TODO 
+	- a lot but let's start by an UML of the model layer.
+	- install mongodb
+	- deploy on heroku
+	
+====
+Installation
+
+	fork it 
+	git clone yourgithub/bechamel.git
+	rackup
+	
+====
+Please if you send a pull request, create a new branch for that. 
+
+
