@@ -7,7 +7,7 @@ Project launched by Laurent Henocque, Gaetan Janssens(@Petit_Nuage) and Alban Di
 ====
 TODO 
 	- a lot but let's start by an UML of the model layer.
-	- install mongodb
+	- install mongodb.
 	- deploy on heroku
 	
 ====
